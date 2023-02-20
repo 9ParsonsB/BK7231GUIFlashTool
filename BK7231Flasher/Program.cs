@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Windows.Forms;
-
-namespace BK7231Flasher
+﻿namespace BK7231Flasher
 {
     static class Program
     {

@@ -1,4 +1,6 @@
-﻿namespace BK7231Flasher
+﻿using System.Reflection;
+
+namespace BK7231Flasher
 {
     partial class FormMain
     {
@@ -89,6 +91,8 @@
             this.tabPagePageTool.SuspendLayout();
             this.tabPage3.SuspendLayout();
             this.tabPage4.SuspendLayout();
+            this.Icon = new System.Drawing.Icon(System.Reflection.Assembly.GetExecutingAssembly()
+                .GetManifestResourceStream("BK7231Flasher.bk_icon.ico"));
             this.SuspendLayout();
             // 
             // buttonRead

@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Drawing;
-using System.Text;
-
-namespace BK7231Flasher
+﻿namespace BK7231Flasher
 {
     public interface ILogListener
     {

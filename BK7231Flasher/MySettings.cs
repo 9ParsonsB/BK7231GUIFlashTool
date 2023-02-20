@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Text;
-
-namespace BK7231Flasher
+﻿namespace BK7231Flasher
 {
     class KeyValue
     {
